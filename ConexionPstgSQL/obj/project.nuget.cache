@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1knncipmVmRvAgSvHWUa4SuYqNVwtC/sKG6e2Bl8lUMVkQHIB4dneCIGtCx0ho7T7meHMbjxYdLklhIXfg+vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juanj\\source\\repos\\CRUD_CSharp_PostgreSQL\\ConexionPstgSQL\\ConexionPstgSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanj\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\Juanj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
